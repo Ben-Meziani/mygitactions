@@ -12,7 +12,7 @@ This repository demonstrates the use of [GitHub Super-Linter](https://github.com
 The workflow is defined in [`.github/workflows/superlineter.yml`](.github/workflows/superlineter.yml):
 
 - **Triggers:** On push or pull request to `main` or `develop`.
-- **Jobs:** 
+- **Jobs:**
   - Checks out the code.
   - Runs Super-Linter.
 
